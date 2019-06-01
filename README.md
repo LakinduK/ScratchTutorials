@@ -8,3 +8,8 @@ Scratch helps young people learn to think creatively, reason systematically, and
 
 In this tutorial you can learn how to create simple games, animations and understand how a back-end of a program works.
 
+## Visit Scratch :
+https://scratch.mit.edu/
+
+## Scratch - my profile :
+https://scratch.mit.edu/users/DreamScratch_01/
