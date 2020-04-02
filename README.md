@@ -1,3 +1,4 @@
+![Image of scratch](https://scratch.mit.edu/images/scratch-og.png)
 # ScratchTutorials
 Scratch is a project of the Lifelong Kindergarten Group at the MIT Media Lab.
 
@@ -7,9 +8,13 @@ Scratch helps young people learn to think creatively, reason systematically, and
 
 
 In this tutorial you can learn how to create simple games, animations and understand how a back-end of a program works.
+## Visit Scratch Tutorial slide  :
+https://slides.com/lakinduk/scratch
 
-## Visit Scratch :
+
+
+## Visit Scratch to create account :
 https://scratch.mit.edu/
 
-## Scratch - my profile :
+## you can find my projects on Scratch - my profile :
 https://scratch.mit.edu/users/DreamScratch_01/
